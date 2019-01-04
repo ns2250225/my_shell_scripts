@@ -6,5 +6,6 @@
 ## 脚本列表
 - docker_install_centos7.sh  (安装docker)
 - docker-compose_install.sh  (安装docker-compose)
+- python37_install.sh        (安装python3.7)
 - ip2net.sh  (获取当前宿主机所在网段)
 
