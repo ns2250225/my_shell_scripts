@@ -8,4 +8,5 @@
 - docker-compose_install.sh  (安装docker-compose)
 - python37_install.sh        (安装python3.7)
 - ip2net.sh  (获取当前宿主机所在网段)
+- check_server_info.sh  (查看最占空间|内存|CPU的十个文件/进程)
 
